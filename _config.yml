@@ -1,0 +1,17 @@
+future: true
+permalink: /:title/
+url: http://zhuwh9.github.io
+name: Zhu Wenhao
+author: Zhu Wenhao
+qq: 1083325661
+email: zhuwh9@mail2.sysu.edu.cn
+
+duoshuo: 朱文豪
+beian: 
+cnzz: 
+weibo: 
+github: zhuwh9
+about: "这里是朱文豪的个人博客，创建于 2017 年。"
+
+safe: true
+paginate: 20
