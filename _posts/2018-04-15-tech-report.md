@@ -33,7 +33,7 @@ tags: 博客
 >
 > 3.中间的一层，就是"控制层"（Controller），它负责根据用户从"视图层"输入的指令，选取"数据层"中的数据，然后对其进行相应的操作，产生最终结果。
 
-![1523781478407](C:\Users\ASUS\AppData\Local\Temp\1523781478407.png)
+![1523781478407](https://github.com/zhuwh9/zhuwh9.github.io/blob/master/images/hw4/0.png?raw=true)
 
 ### Web后端常用框架
 
@@ -55,7 +55,7 @@ tags: 博客
 
 #### 缓存策略
 
-![1523781766457](C:\Users\ASUS\AppData\Local\Temp\1523781766457.png)
+![1523781766457](https://github.com/zhuwh9/zhuwh9.github.io/blob/master/images/hw4/1.png?raw=true)
 
 ##### 浏览器缓存
 
