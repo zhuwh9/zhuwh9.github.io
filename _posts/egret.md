@@ -1,3 +1,11 @@
+---
+layout: post
+title: 白鹭学习日志
+date: 2018-08-08 16:13:10+00:00
+categories: 日志
+tags: 博客
+---
+
 ### egret技术总结
 #### 报错/BUG汇总
 
